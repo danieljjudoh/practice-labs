@@ -6,7 +6,7 @@ PRACTICE 2
 Change the code to call the promises sequentially and see how the output changes.
 */
 
-// defining promise 1 as a function expression
+// defining promise 1 as an expression
 const promise1 = new Promise((resolve, reject) => {
 	setTimeout(()=>{
 		resolve('Promise 1 resolved')
