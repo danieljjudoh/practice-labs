@@ -1,5 +1,5 @@
 # practice-labs
-Important practice lab files that guide me in the software development journey.
+Important practice labs that guide me in the software development journey.
 
 ## Deployed Static Pages
 
